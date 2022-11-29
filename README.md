@@ -3,7 +3,8 @@
     👀 I’m interested in learn new languages and improve myself. <br>
     🌱 I’m currently learning HTML, CSS, JS and React.<br>
   </div>
-##
+
+#
 
 <div align="center">
   <a href="https://github.com/cristiano-nobre">
