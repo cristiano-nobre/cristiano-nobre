@@ -5,7 +5,9 @@
 - 📫 How to reach me:
 -  Linkedin: https://www.linkedin.com/in/cristiano-nobre
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-nobre&layout=compact)](https://github.com/cristiano-nobre/github-readme-stats)
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-nobre&show_icons=true&theme=dracula)
 <!---
 cristiano-nobre/cristiano-nobre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
